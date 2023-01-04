@@ -29,7 +29,7 @@ Para rodar, execute os passos abaixo:
 
 6. Na pasta `frontend`, execute `npm install` para instalar as dependências.
 
-7. Execute `npm start` para rodar o frontend.
+7. Execute `npm run serve` para rodar o frontend.
 
 
 ## Observações
